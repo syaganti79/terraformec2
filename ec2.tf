@@ -1,3 +1,4 @@
+#this is to create basic EC2 instance
 provider "aws" {
   region  = "${var.aws_reg}"
 }
